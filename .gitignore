@@ -1,0 +1,5 @@
+# Excluir archivos de configuración de la IDE (Eclipse)
+.classpath
+.project
+# Excluir la carpeta de archivos compilados (Eclipse)
+bin/
